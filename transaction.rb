@@ -1,9 +1,8 @@
 def get_transactions_data
 
 	transactions_block ||= []
-	blank_transaction = Hash[ from: "", to: "",
-														what: "", qty: ""]
-
+	blank_transaction = Hash[from: "", to: "",
+													 what: "", qty: ""]
 	loop do
 		puts "" 
 		puts "Enter your name for the new transaction"
@@ -18,8 +17,8 @@ def get_transactions_data
 		puts "Who do you want to send it to ?"
 		to 	 = gets.chomp
 
-		transaction = Hash[ from: "#{from}", to: "#{to}", 
-												what: "#{what}", qty: "#{qty}"]
+		transaction = Hash[from: "#{from}", to: "#{to}", 
+											 what: "#{what}", qty: "#{qty}"]
 		transactions_block << transaction
 
 		puts "" 

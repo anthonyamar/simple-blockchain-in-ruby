@@ -22,7 +22,7 @@ require 'digest'    							# For hash checksum digest function SHA256
 require 'pp'        							# For pp => pretty printer
 require 'pry'                     # For on the fly debugging
 require_relative 'block'					# class Block
-require_relative 'transaction'		# class Transactions
+require_relative 'transaction'		# method Transactions
 
 LEDGER = []
 
