@@ -1,7 +1,7 @@
 class Block
   attr_reader :index, :timestamp, :transactions, 
 							:transactions_count, :previous_hash, 
-							:nounce, :hash 
+							:nonce, :hash 
 
   def initialize(index, transactions, previous_hash)
     @index         		 	 = index

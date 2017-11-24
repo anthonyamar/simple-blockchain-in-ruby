@@ -66,7 +66,7 @@ end
 def launcher
 	puts "==========================="
 	puts ""
-	puts "Welcome to the Blockchain creator !"
+	puts "Welcome to Simple Blockchain In Ruby !"
 	puts ""
 	sleep 1.5
 	puts "This program was created by Anthony Amar for and educationnal purpose"
