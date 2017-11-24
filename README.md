@@ -1,5 +1,5 @@
 # Simple Blockchain using Ruby
-Improved version of "Build your own blockchain from scratch in 20 lines of Ruby!"	from [https://github.com/openblockchains/awesome-blockchains/tree/master/blockchain.rb] and inspired by "Let's Build the Tiniest Blockchain In Less Than 50 Lines of Python by Gerald Nash" [from https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b]
+Improved version of "Build your own blockchain from scratch in 20 lines of Ruby!"	from https://github.com/openblockchains/awesome-blockchains/tree/master/blockchain.rb and inspired by "Let's Build the Tiniest Blockchain In Less Than 50 Lines of Python by Gerald Nash" from https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b
 <br>
 
 # Run it
@@ -13,7 +13,7 @@ You can set multiple transaction in one block. When you finished to write the tr
 ## Live code 
 
 Here is a live talk and programming from scratch, with explanation of what is blockchain and how work proof of work, blocks, hash, cryptography... The talk is in french for the french school The_Hacking_Project. <br>
-[https://www.youtube.com/watch?v=SvfluWtb8a0]
+https://www.youtube.com/watch?v=SvfluWtb8a0
 
 
 
